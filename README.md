@@ -68,7 +68,7 @@ The witch’s presence is conveyed through her magic and the environment:
 
 ## Challenge
 
-# Challenges in the Original Story
+### Challenges in the Original Story
 
 In the original *Hansel and Gretel* tale, the children face multiple life-threatening challenges. 
 First, they are abandoned in the forest, left to survive on their own. They initially use breadcrumbs to find their way back, but the birds eat them. 
@@ -76,7 +76,7 @@ The most dangerous challenge comes when they encounter the witch, who lures them
 The children must outsmart the witch to survive, with Gretel’s cleverness ultimately leading to their escape. 
 The final challenge is finding their way home through the forest, evading further dangers.
 
-# How the Game Builds on These Challenges
+### How the Game Builds on These Challenges
 
 In our game, these classic challenges are expanded into an interactive, horror-filled experience, emphasizing on escaping the witch's hut.
 The children must navigate through the witch’s house, which is filled with dangerous traps and magical obstacles.
@@ -84,13 +84,13 @@ The witch is a constant threat, always keeping the children on their toes with e
 Players must use their wits to escape the house, with many paths leading to either death or survival based on the player’s decisions.
 The gameplay emphasizes resourcefulness, just like the original story, but now with an added layer of suspense and danger.
 
-# How the Game Enhances the Story for Players Familiar with the Original
+### How the Game Enhances the Story for Players Familiar with the Original
 
 For players who know the *Hansel and Gretel* story, the game provides a thrilling new take.
 The plot remains familiar, but the choices are more complex, adding tension and unpredictability.
 Players who are already familiar with the original story will be excited by new ways to defeat the witch or new ways to die, making the horror elements even more impactful.
 
-# How the Game Is Challenging for New Players
+### How the Game Is Challenging for New Players
 
 Even for players unfamiliar with the original story, the game is just as engaging.
 The narrative is conveyed through choices, meaning players can experience the tension and danger of the witch’s house without prior knowledge of the plot.
