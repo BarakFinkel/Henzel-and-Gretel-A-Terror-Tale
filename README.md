@@ -6,7 +6,7 @@ The game follows Hansel and Gretel as they try to escape the clutches of an evil
 Players navigate through eerie and dangerous environments, making crucial decisions to survive.
 With multiple paths and unexpected outcomes, the game offers a thrilling experience that challenges both new players and those familiar with the original story.
 
-In order to play, download the [html game file](https://github.com/Nikita-Barak/Henzel-and-Gretel-A-Terror-Tale/blob/main/Hansel%20and%20Gretel%2C%20A%20Terror%20Tale.html), click on the file, and play. :)
+In order to play, download the [html game file](https://github.com/Nikita-Barak/Henzel-and-Gretel-A-Terror-Tale/blob/main/Hansel%20and%20Gretel%2C%20A%20Terror%20Tale.html), click on it, and have fun. :)
 
 ## Game World Features
 
