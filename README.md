@@ -1,5 +1,11 @@
 # Henzel and Gretel: A Terror Tale
 
+*Hansel and Gretel: A Terror Tale* is a horror-adventure game that reimagines the classic fairy tale with an interactive twist. 
+
+The game follows Hansel and Gretel as they try to escape the clutches of an evil witch in her candy-filled house. 
+Players navigate through eerie and dangerous environments, making crucial decisions to survive.
+With multiple paths and unexpected outcomes, the game offers a thrilling experience that challenges both new players and those familiar with the original story.
+
 ## Game World Features
 
 ### Nature Laws
