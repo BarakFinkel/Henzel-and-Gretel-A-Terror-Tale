@@ -104,3 +104,15 @@ Even for players unfamiliar with the original story, the game is just as engagin
 The narrative is conveyed through choices, meaning players can experience the tension and danger of the witch’s house without prior knowledge of the plot.
 The gameplay itself challenges players with strategic decisions, where one wrong choice can lead to death.
 The horror elements are designed to keep everyone on edge, ensuring that new players still find the game thrilling and immersive.
+
+## Playtesting:
+
+### Nikita's Perspective:
+
+The game does a great job building a creepy atmosphere, with the candy-themed house adding a unique twist. I enjoyed the chocolate fountain sequence, as it forced feel like I'm under the same pressure as the kids. However, some choices felt a bit too easy to guess, like the statue puzzle, which could have been more challenging. Still, the mix of horror and fairytale worked well to keep me engaged.
+
+### Barak's Perspective:
+
+Although I'm a bit biased, the game’s design kept me on edge, and the detailed descriptions of the candy house made exploring it feel immersive. Opposed to Nikita, I felt like the statue part was pretty cool, as if I'm playing an "Indianna Jones" game. However, I must admit some deaths felt a bit too sudden, like when I kicked the fountain and instantly failed. A little less cruelty and more room for error in the consequences of each choice would make my experience even better, but overall, the mix of tension and creativity stood out.
+
+
