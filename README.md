@@ -1,4 +1,4 @@
-# Henzel and Gretel: A Terror Tale
+# Hansel and Gretel: A Terror Tale
 
 *Hansel and Gretel: A Terror Tale* is a twine-based horror-adventure game that reimagines the classic fairy tale with an interactive twist. 
 
